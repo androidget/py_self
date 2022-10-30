@@ -5,7 +5,8 @@ import sys
 def start():
     print('start')
 
-print('how to set propert')
+print('how to set propert i am master!')
+
 start()
 
 print('hi vs code test')
