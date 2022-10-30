@@ -9,7 +9,7 @@ print('how to set propert i am devolop!')
 
 start()
 
-print('hi vs code test')
+print('hi vs code test to devolop to auto test')
 
 def end():
     start()
