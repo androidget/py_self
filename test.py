@@ -5,7 +5,7 @@ import sys
 def start():
     print('start')
 
-print('how to set propert i am master!')
+print('how to set propert i am master! add save auto')
 
 start()
 
