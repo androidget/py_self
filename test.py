@@ -5,6 +5,13 @@ import sys
 def start():
     print('start')
 
+print('how to set propert')
 start()
 
-print('hi vs code')
+print('hi vs code test')
+
+def end():
+    start()
+    print('end')
+
+end()
